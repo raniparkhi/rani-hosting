@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://c1.wallpaperflare.com/preview/151/867/787/stars-night-dark-milky-way.jpg);
+    background-size: cover;
+}
+
+
+
+.squear{
+    height: 50px;
+    border-radius: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.red{
+    width: 12.5%;
+    background-color: red;
+}
+
+.green{
+    width: 25%;
+    background-color: green;
+}
+
+.pink{
+    width: 37.5%;
+    background-color: pink;
+}
+
+.blue{
+    width: 50%;
+    background-color:blue;
+}
+
+.reb{
+    width: 62.5%;
+    background-color: rebeccapurple;
+}
+
+.gold{
+    width: 75%;
+    background-color: goldenrod;
+}
+
+.pal{
+    width: 87.5%;
+    background-color: palevioletred;
+}
+
+.black{
+    width: 100%;
+    background-color:black;
+}
+
+img{
+    height: 400px;
+    width: 400px;
+}
